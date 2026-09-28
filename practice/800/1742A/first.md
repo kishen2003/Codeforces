@@ -20,4 +20,4 @@ Space: O(1) - Three integer variables
 
 Verdict: Accepted
 Time: 62 ms
-Space: 2100 KB
+Memory: 2100 KB
