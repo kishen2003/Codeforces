@@ -1,0 +1,1 @@
+Prefer simpler logic over complex logic, if they are both the same complexity
